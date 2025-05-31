@@ -1,0 +1,58 @@
+# Ambiente virtual
+.venv/
+env/
+venv/
+ENV/
+
+# Arquivos de configuração do VS Code
+.vscode/
+
+# Arquivos do Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Arquivos de log temporários
+*.log
+
+# Arquivos de sistema do Windows
+desktop.ini
+Thumbs.db
+
+# Arquivos de sistema do macOS
+.DS_Store
+
+# Arquivos de configuração de ambiente
+.env
+.env.*
+
+# Arquivos de dependência gerados
+Pipfile.lock
+poetry.lock
+
+# Arquivos temporários ou backup
+*.bak
+*.tmp
+*.swp
+
+
+# Arquivos de saída ou gráficos
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# Arquivos específicos do seu projeto
+
+desktop.ini
+scr/desktop.ini
+data/desktop.ini
