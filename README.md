@@ -62,8 +62,7 @@ Projeto desenvolvido por **Mileno Epifanio** — Analista de Dados com foco em s
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seuusuario/seurepositorio.git
-cd seurepositorio
+git clone git@github.com:milenoepifanio/analise-populacional-imobiliaria-brasil.git
 ```
 
 
